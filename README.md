@@ -33,9 +33,9 @@ The final images (interactive) where put together into a PPT (main image above).
 
 To interactively view the html files that are created in Leafmap, please navigate to:
 
-- https://ellenb.github.io/cattle-interactive/day_cattle.html
+- [day html from Leafmap](https://ellenb.github.io/cattle-interactive/day_cattle.html)
 
-- https://ellenb.github.io/30DayMapChallenge/night_cattle.html
+- [Night html from Leafmap](https://ellenb.github.io/30DayMapChallenge/night_cattle.html)
 
 Other:
 
